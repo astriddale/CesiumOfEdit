@@ -1,0 +1,33 @@
+{
+    "type": "FeatureCollection",
+    "features": [{
+        "type": "Feature",
+        "properties": { "plotCode": "20201216143253920", "style": { "color": "rgba(239, 163, 21, 0.5)", "extrudedHeight": 1128, "radius": 10 }, "plotBase": "HedronPlot", "attr": { "name": "未命名" }, "plotName": "多边体", "plotType": "polyhedron" },
+        "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [106.44186839640759, 29.511723056796747, -0.5358034570356742],
+                    [106.44301095814293, 29.49686387445524, 7.648434561339735],
+                    [106.44705211949476, 29.494702446588814, -0.5358034559907909],
+                    [106.46026767743221, 29.5016819011931, -0.5358034564743316],
+                    [106.45576935193944, 29.50939010726826, -0.5358034578000682]
+                ]
+            ]
+        }
+    }, { "type": "Feature", "properties": { "plotCode": "20201216143314508", "style": { "color": "rgba(0, 81, 255, 0.5)", "radius": 1195, "extrudedHeight": 10 }, "plotBase": "HedronPlot", "attr": { "name": "未命名" }, "plotName": "半球体", "plotType": "hemisphere" }, "geometry": { "type": "Point", "coordinates": [106.43351269593634, 29.48562113222758, -1.1679089140339494] } }, { "type": "Feature", "properties": { "plotCode": "20201216143327610", "style": { "radius": 547, "color": "rgba(255, 51, 0, 0.5)", "extrudedHeight": 1207 }, "plotBase": "HedronPlot", "attr": { "name": "未命名" }, "plotName": "圆柱体", "plotType": "cylinder" }, "geometry": { "type": "Point", "coordinates": [106.42318145016526, 29.50508685684786, -0.899410507853719] } }, {
+        "type": "Feature",
+        "properties": { "plotCode": "2020121621515718", "style": { "color": "rgba(0, 221, 255, 0.5)", "extrudedHeight": 100, "radius": 10 }, "plotBase": "HedronPlot", "attr": { "name": "未命名" }, "plotName": "多边体", "plotType": "polyhedron" },
+        "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [106.42135086691361, 29.5289533285041, 195.0810392000481],
+                    [106.40478929350526, 29.52493616248388, 195.08103920131634],
+                    [106.40570717450535, 29.51543580907777, 195.08103919963605],
+                    [106.4247712145249, 29.521369820617625, 195.08103919964947]
+                ]
+            ]
+        }
+    }, { "type": "Feature", "properties": { "plotCode": "20201216215210512", "style": { "radius": 457, "color": "rgba(204, 24, 195, 0.5)", "extrudedHeight": 100 }, "plotBase": "HedronPlot", "attr": { "name": "未命名" }, "plotName": "圆柱体", "plotType": "cylinder" }, "geometry": { "type": "Point", "coordinates": [106.45459732906336, 29.479234747735116, 99.47820103503902] } }, { "type": "Feature", "properties": { "plotCode": "20201216215226273", "style": { "color": "rgba(0,255,0,0.5)", "radius": 257, "extrudedHeight": 10 }, "plotBase": "HedronPlot", "attr": { "name": "未命名" }, "plotName": "半球体", "plotType": "hemisphere" }, "geometry": { "type": "Point", "coordinates": [106.44477119279802, 29.52481937638927, 2.323208342736155] } }]
+}

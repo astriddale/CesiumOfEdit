@@ -1,0 +1,22 @@
+{ "type": "FeatureCollection", "features": [{ "type": "Feature", "properties": { "plotCode": "2020117162342242", "plotBase": "GeoPlot", "plotType": "marker", "plotName": "图标点" }, "geometry": { "type": "Point", "coordinates": [106.45401210171866, 29.504652041119407, 11.928822776218862] } }, { "type": "Feature", "properties": { "plotCode": "2020117162344609", "plotBase": "GeoPlot", "plotType": "text", "plotName": "文本", "attr": { "text": "文本" } }, "geometry": { "type": "Point", "coordinates": [106.4541978709131, 29.50444501127159, 13.873643622259008] } }, { "type": "Feature", "properties": { "plotCode": "2020117162347234", "plotBase": "GeoPlot", "plotType": "text", "plotName": "文本", "attr": { "text": "文本" } }, "geometry": { "type": "Point", "coordinates": [106.454433953463, 29.504221698648294, 9.634424739967576] } }, { "type": "Feature", "properties": { "plotCode": "2020117162350297", "plotBase": "GeoPlot", "plotName": "线", "plotType": "polyline" }, "geometry": { "type": "LineString", "coordinates": [
+                [106.45444790893443, 29.504460569370035, 13.94066948417677],
+                [106.45528940716865, 29.50479395740967, 10.148467109011854],
+                [106.45577602545555, 29.50474496801377, 11.607201630809925]
+            ] } }, { "type": "Feature", "properties": { "plotCode": "2020117162356290", "plotBase": "GeoPlot", "plotName": "面", "plotType": "polygon" }, "geometry": { "type": "Polygon", "coordinates": [
+                [
+                    [106.4538273677138, 29.504533628657697, 10.93132358363884],
+                    [106.45390782944925, 29.504062359887232, 9.650695337938487],
+                    [106.4542639827305, 29.504043102006257, 9.658708791432076],
+                    [106.45425668909192, 29.504372819914703, 11.312980403712702],
+                    [106.45407709525391, 29.50453960898348, 15.035894584705487]
+                ]
+            ] } }, { "type": "Feature", "properties": { "plotCode": "202011716242395", "plotBase": "GeoPlot", "plotName": "正圆", "plotType": "circle" }, "geometry": { "type": "LineString", "coordinates": [
+                [106.45444873703906, 29.504043041601825, 13.19291098391824],
+                [106.45456773408986, 29.503946286893125, 13.009785278281187]
+            ] } }, { "type": "Feature", "properties": { "plotCode": "2020117162410132", "plotBase": "GeoPlot", "plotName": "矩形", "plotType": "rectangle" }, "geometry": { "type": "LineString", "coordinates": [
+                [106.45388268991006, 29.503818568997282, 9.646682043375982],
+                [106.4541869477272, 29.503841480554048, 12.11819613140794]
+            ] } }, { "type": "Feature", "properties": { "plotCode": "2020117162415658", "plotBase": "GeoPlot", "plotName": "矩形", "plotType": "rectangle" }, "geometry": { "type": "LineString", "coordinates": [
+                [106.45386579449575, 29.503943583604308, 9.681457345890557],
+                [106.45406024678871, 29.503703314478486, 12.868455496123868]
+            ] } }, { "type": "Feature", "properties": { "plotCode": "2020117162426790", "plotBase": "GeoPlot", "plotType": "marker", "plotName": "图标点" }, "geometry": { "type": "Point", "coordinates": [106.45462114545046, 29.50473743782211, 27.253505870769974] } }] }
